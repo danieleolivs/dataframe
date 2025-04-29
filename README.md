@@ -6,6 +6,7 @@ Espelho de acórdãos e decisões terminativas de processos disponivilizados pel
 ## 2. Links importantes
 - **Fonte dos dados**: [Dados do STJ](https://dadosabertos.web.stj.jus.br/dataset/)
 - **Link do csv dos dados**: [Dados espelhos de acórdãos em CSV](https://drive.google.com/file/d/1DuB82M8c0uWC6JTvquwDg97n5j0RaWFz/view?usp=sharing)
+- **Link do csv dos dados filtrados da ANATEL**: [Dados espelhos de acórdãos em CSV](https://drive.google.com/file/d/1pnQ_JF0Noyp2hj7r0AP0ZSLRbXgNUOVO/view?usp=sharing)
 
 ## 3. Dicionário - espelhos de acórdãos
 | Campo                   | Nome extenso                          | Descrição                                                                                                                                                  |
